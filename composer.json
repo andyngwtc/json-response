@@ -1,5 +1,5 @@
 {
-    "name": "UdemyComposer/json-response",
+    "name": "udemycomposer/json-response",
     "description": "A simple class that returns a properly formatted json response with HTTP status",
     "keywords": ["Json", "Response", "API Response Class", "PHP"],
     "license": "MIT",
